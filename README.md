@@ -1,6 +1,10 @@
-[![Build Status](https://travis-ci.org/nan-academy/js-training.svg?branch=dev)](https://travis-ci.org/nan-academy/js-training)
+[![Build Status](https://travis-ci.org/nan-academy/js-training.svg?branch=master)](https://travis-ci.org/nan-academy/js-training)
 
 
+**Build Status - Master**
+[![Build Status](https://travis-ci.org/FlorianGardy/js-training.svg?branch=master)](https://travis-ci.org/FlorianGardy/js-training)
+
+**Build Status - Dev**
 [![Build Status](https://travis-ci.org/FlorianGardy/js-training.svg?branch=dev)](https://travis-ci.org/FlorianGardy/js-training)
 
 ## Setup
