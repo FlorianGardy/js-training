@@ -1,5 +1,7 @@
-[![Build Status](https://travis-ci.org/nan-academy/js-training.svg?branch=master)](https://travis-ci.org/nan-academy/js-training)
-[![Build Status](https://travis-ci.org/FlorianGardy/js-training.svg?branch=master)](https://travis-ci.org/FlorianGardy/js-training)
+[![Build Status](https://travis-ci.org/nan-academy/js-training.svg?branch=dev)](https://travis-ci.org/nan-academy/js-training)
+
+
+[![Build Status](https://travis-ci.org/FlorianGardy/js-training.svg?branch=dev)](https://travis-ci.org/FlorianGardy/js-training)
 
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
