@@ -1,4 +1,12 @@
 [![Build Status](https://travis-ci.org/nan-academy/js-training.svg?branch=master)](https://travis-ci.org/nan-academy/js-training)
+
+
+**Build Status - Master**
+[![Build Status](https://travis-ci.com/FlorianGardy/js-training.svg?branch=master)](https://travis-ci.com/FlorianGardy/js-training)
+
+**Build Status - Dev**
+[![Build Status](https://travis-ci.com/FlorianGardy/js-training.svg?branch=dev)](https://travis-ci.com/FlorianGardy/js-training)
+
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
 ### globals dependencies
@@ -170,3 +178,4 @@ We greatly recommand you to add your own tests to this list
 
 *All the tests must be written using [assert](https://nodejs.org/api/assert.html)
 for `./tester` to work properly.*
+
