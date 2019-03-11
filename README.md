@@ -170,3 +170,7 @@ We greatly recommand you to add your own tests to this list
 
 *All the tests must be written using [assert](https://nodejs.org/api/assert.html)
 for `./tester` to work properly.*
+
+**Travis cmd**
+[![Build Status](https://travis-ci.org/GITHUB_LOGIN/js-training.svg?branch=master)](https://travis-ci.org/GITHUB_LOGIN/js-training)
+
