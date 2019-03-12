@@ -7,6 +7,7 @@
  */
 
 // Your code :
+const sub = (num1, num2) => num1 - num2;
 
 //* Begin of tests
 const assert = require('assert')
